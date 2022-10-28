@@ -1,0 +1,5 @@
+![playbook screenshot](screenshot1.png "Ansible playbook")
+![Ansible screenshot](screenshot2.png "Ansible successful")
+![Apache screenshot](screenshot3.png "Apache web")
+![Apache screenshot](screenshot4.png "Apache web2")
+![Apache screenshot](screenshot5.png "Apache web3")
